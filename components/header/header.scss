@@ -1,0 +1,25 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 0;
+
+    nav{
+        display: flex;
+        gap: 27px;
+        padding: 20px 24px;
+
+        li{
+            list-style: none;
+        }
+    }
+
+    .link-button button{
+        background-color: #485C11;
+        color: #fff;
+        border-radius: 1000px;
+        border: none;
+        padding: 14px 22px;
+    }
+}
+
